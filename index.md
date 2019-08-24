@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+### Welcome to GitHub KiwiChat Page
 
-You can use the [editor on GitHub](https://github.com/KiwiChat/KiwiChat.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Try the new IRC KiwiChat WordPress plugin that works! based on kiwiirc nexclient, with 6 new themes
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+KiwiChat is an online chat client, your IRC client based on kiwiirc Add your networks. Join your channels.
 
-### Markdown
+## Description 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+How to use KiwiChat…
+Finally there is an IRC plugin for WordPress that works!
+KiwiChat is an online chat client, your IRC client based on kiwiirc Add your networks. Join your channels.
+To use this plugin:
+1. simply download and extract it into your plugins folder
+2. configure your settings in the WordPress dashboard
+3. then drop the short tag [kiwichat] into your page or post.
+Instantly your users will be able to stay connected via IRC.
 
-```markdown
-Syntax highlighted code block
+## Installation
 
-# Header 1
-## Header 2
-### Header 3
+1. Upload the "kiwichat" folder to the "/wp-content/plugins/" directory.
+1. Activate the plugin through the "Plugins" menu in WordPress.
+1. Place "[kiwichat]" shortcode in your pages or posts.
 
-- Bulleted
-- List
+## Screenshots
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/KiwiChat/KiwiChat.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+![Plugin configuration](https://www.kiwichat.tk/wp-content/uploads/2019/08/screenshot-kiwichat.png "Plugin configuration options page")
