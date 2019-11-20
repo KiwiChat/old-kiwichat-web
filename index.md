@@ -21,6 +21,13 @@ Instantly your users will be able to stay connected via IRC.
 1. Activate the plugin through the "Plugins" menu in WordPress.
 1. Place "[kiwichat]" shortcode in your pages or posts.
 
+## Download
+
+[![alt text][image]][hyperlink]
+
+  [hyperlink]: https://wordpress.org/plugins/kiwichat/
+  [image]: https://kiwichat.github.io/kiwichat-300x150.png
+
 ## Screenshots
 
 ![Plugin configuration](https://raw.githubusercontent.com/KiwiChat/kiwichat/master/assets/screenshot-1.png "Plugin configuration options page")
