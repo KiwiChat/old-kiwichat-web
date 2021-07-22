@@ -30,10 +30,10 @@ Instantly your users will be able to stay connected via IRC.
 
 ## Screenshots
 
-![Plugin configuration](https://raw.githubusercontent.com/KiwiChat/kiwichat/master/assets/screenshot-1.png "Plugin configuration options page")
+![Plugin configuration](https://raw.githubusercontent.com/KiwiChat/wp-kiwichat/master/assets/screenshot-1.png "Plugin configuration options page")
 
-![Capture KiwiChat Home Screen](https://raw.githubusercontent.com/KiwiChat/kiwichat/master/assets/screenshot-2.png "Capture KiwiChat Home Screen")
+![Capture KiwiChat Home Screen](https://raw.githubusercontent.com/KiwiChat/wp-kiwichat/master/assets/screenshot-2.png "Capture KiwiChat Home Screen")
 
-![Capture KiwiChat Online Chat](https://raw.githubusercontent.com/KiwiChat/kiwichat/master/assets/screenshot-3.png "Capture KiwiChat Online Chat")
+![Capture KiwiChat Online Chat](https://raw.githubusercontent.com/KiwiChat/wp-kiwichat/master/assets/screenshot-3.png "Capture KiwiChat Online Chat")
 
-![KiwiChat Connected In Chat](https://raw.githubusercontent.com/KiwiChat/kiwichat/master/assets/screenshot-4.png "KiwiChat Connected In Chat")
+![KiwiChat Connected In Chat](https://raw.githubusercontent.com/KiwiChat/wp-kiwichat/master/assets/screenshot-4.png "KiwiChat Connected In Chat")
